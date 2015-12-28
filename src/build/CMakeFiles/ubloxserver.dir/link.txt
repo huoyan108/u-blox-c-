@@ -1,0 +1,1 @@
+/usr/bin/c++    -O0 -Wall -g -ggdb    CMakeFiles/ubloxserver.dir/main.cpp.o CMakeFiles/ubloxserver.dir/server.cpp.o CMakeFiles/ubloxserver.dir/client.cpp.o  -o ubloxserver  -L/usr/local -rdynamic -lpthread -Wl,-rpath,/usr/local 
